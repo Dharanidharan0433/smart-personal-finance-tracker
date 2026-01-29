@@ -1,0 +1,16 @@
+date,amount,type,category,description ,description
+2026-01-02,20000.0,Income,Other,,Monthly Salary
+2026-01-02,300.0,Expense,Food,,Dinner
+2026-01-07,700.0,Expense,Travel,,Bus
+2026-01-10,1500.0,Expense,Shopping,,Buyed shoes and shirts
+2026-01-15,5000.0,Income,Other,,Freelaunching
+2026-01-20,800.0,Expense,Entertainment,,Movies and turf
+2026-02-03,25000.0,Income,Other,,Monthly salary
+2026-02-03,2000.0,Expense,Food,,Treat
+2026-02-03,20000.0,Income,Other,,Salary
+2026-03-04,25000.0,Income,Other,,Salary
+2026-04-09,2000.0,Expense,Entertainment,,Movies
+2026-01-29,0.0,Income,Food,,
+2026-01-29,400.0,Expense,Food,,parota
+2026-03-06,1000.0,Expense,Shopping,,products
+2026-02-05,850.0,Expense,Travel,,train
